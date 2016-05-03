@@ -1,2 +1,2 @@
 mars stuff
-a different line
+We removed conflict
